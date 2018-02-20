@@ -18,7 +18,6 @@
 	<connection>scm:git:git@github.com:robsantoro/test3.git</connection>
 	<url>http://github.com/robsantoro/test3</url>
 	<developerConnection>scm:git:git@github.com:robsantoro/test3.git</developerConnection>
-    <tag>HEAD</tag>
   </scm>
   <build>
 		<plugins>
