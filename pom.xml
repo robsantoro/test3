@@ -16,7 +16,7 @@
   </dependencies>
   <scm>
 	<connection>scm:git:git@github.com:robsantoro/test3.git</connection>
-	<url>https://github.com/robsantoro/test3</url>
+	<url>http://github.com/robsantoro/test3</url>
 	<developerConnection>scm:git:git@github.com:robsantoro/test3.git</developerConnection>
     <tag>1.0</tag>
   </scm>
