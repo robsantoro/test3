@@ -15,4 +15,9 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <scm>
+	<connection>scm:git:git@github.com:robsantoro/test3.git</connection>
+	<url>scm:git:git@github.com:robsantoro/test3.git</url>
+	<developerConnection>scm:git:git@github.com:robsantoro/test3.git</developerConnection>
+  </scm>
 </project>
